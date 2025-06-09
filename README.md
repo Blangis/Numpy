@@ -4,9 +4,9 @@ Este repositorio contiene una colección de ejercicios básicos realizados con l
 
 ## Estructura del Proyecto
 
-El repositorio incluye los siguientes archivos de ejercicios:
+El repositorio incluye ejercicios de los siguientes temas:
 
-- *arrays_basicos* : creación de arrays, arrays de ceros y unos.
+- *arrays basicos* : creación de arrays, arrays de ceros y unos.
 - *operaciones* : suma, promedio, máximo, mínimo, producto punto.
 - *reshape y concatenacion* : reshape de arrays, concatenación, reorganización.
 - *casos aplicados* : ejercicios aplicados como cálculo de ROI, análisis de presión arterial, PIB per cápita y sistema de drops.
